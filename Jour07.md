@@ -11,14 +11,7 @@ Christopher
 - [x] Comprendre le fonctionnement des dropdowns, boutons radio, et checkbox
 - [x] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
 - [x] Créer son premier formulaire HTML
-=======
-- [ ] Comprendre le fonctionnement des inputs en HTML5 et savoir les manipuler
-- [ ] Découvrir les formulaires et leur validation en HTML5
-- [ ] Comprendre l'utilité et le fonctionnement des labels en HTML5
-- [ ] Comprendre le fonctionnement des dropdowns, boutons radio, et checkbox
-- [ ] Savoir insérer une vidéo dans une page HTML (Youtube, locale)
-- [ ] Créer son premier formulaire HTML
-- [ ] Brief Formulaire (avec répertoire git)
+- [x] Brief Formulaire (avec répertoire git)
 - [ ] Brief Boulanger  (avec répertoire git)
 - [ ] savoir faire un rendu sur Simplonline
 >>>>>>> upstream/main
