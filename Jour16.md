@@ -19,3 +19,7 @@ Christopher
 - [ ] Découvrir l'architecture `7-1` :
 - [ ] Comprendre l'intérêt de cette architecture
 - [ ] Construire son propre boilerplate SASS 7-1
+<<<<<<< HEAD
+=======
+- [ ] Lancement brief Ducsman
+>>>>>>> upstream/main
